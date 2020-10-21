@@ -1,3 +1,3 @@
 # BitManipulation
 
-Lets learn bit manipulation in Java!
+Let's learn bit manipulation in Java!
